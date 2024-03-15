@@ -10,10 +10,10 @@
         飞龙：负责人名称
         wizardforcel：负责人 Github 用户名
         562826179：负责人 QQ
-        lazyman-fengxiangbiao：ApacheCN 的 Github 仓库名称
-        lazyman-fengxiangbiao：DockerHub 仓库名称
-        lazyman-fengxiangbiao：PYPI 包名称
-        lazyman-fengxiangbiao：NPM 包名称
+        flygon-fengxiangbiao：ApacheCN 的 Github 仓库名称
+        flygon-fengxiangbiao：DockerHub 仓库名称
+        flygon-fengxiangbiao：PYPI 包名称
+        flygon-fengxiangbiao：NPM 包名称
     
     CNAME
     
@@ -23,11 +23,11 @@
     
         龙哥风向标：文档中文名
         #009d9c：显示颜色
-        lazyman-fengxiangbiao：ApacheCN 的 Github 仓库名称
+        flygon-fengxiangbiao：ApacheCN 的 Github 仓库名称
 
     asset/docsify-flygon-footer.js
     
-        lazyman-fengxiangbiao：ApacheCN 的 Github 仓库名称
+        flygon-fengxiangbiao：ApacheCN 的 Github 仓库名称
 -->
 
 # 龙哥风向标
@@ -43,16 +43,16 @@
 ### Docker
 
 ```
-docker pull apachecn0/lazyman-fengxiangbiao
-docker run -tid -p <port>:80 apachecn0/lazyman-fengxiangbiao
+docker pull apachecn0/flygon-fengxiangbiao
+docker run -tid -p <port>:80 apachecn0/flygon-fengxiangbiao
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g lazyman-fengxiangbiao
-lazyman-fengxiangbiao <port>
+npm install -g flygon-fengxiangbiao
+flygon-fengxiangbiao <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
